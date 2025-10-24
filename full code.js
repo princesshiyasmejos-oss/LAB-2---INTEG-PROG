@@ -67,7 +67,6 @@ class PlayerFacade {
 }
 
 // ============================
-// 🎬 DEMO STARTS HERE
 // ============================
 
 // Create sources
