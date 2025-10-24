@@ -9,11 +9,11 @@ A refactored media player system that supports multiple media sources, decorator
 - Proxy caching for remote streams
 
 ### 🧠 Design Patterns Used
-- **Adapter** – for handling different media sources  
-- **Decorator** – for adding features like watermark or subtitles  
-- **Composite** – for nested playlists  
-- **Strategy** – for renderer switching  
-- **Proxy** – for caching remote streams  
+- **Adapter** – for handling different media sources
+- **Decorator** – for adding features like watermark or subtitles
+- **Composite** – for nested playlists
+- **Strategy** – for renderer switching
+- **Proxy** – for caching remote streams
 
 ### ▶️ Run Instructions
 1. Clone the repository:
