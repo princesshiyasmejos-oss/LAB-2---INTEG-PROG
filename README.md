@@ -17,5 +17,5 @@ A refactored media player system that supports multiple media sources, decorator
 
 ### ▶️ Run Instructions
 1. Clone the repository:
-   ```bash
+   bash
    git clon e https://github.com/princesshiyasmejos-oss/LAB-2---INTEG-PROG.git
