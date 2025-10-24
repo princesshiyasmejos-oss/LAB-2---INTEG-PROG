@@ -14,7 +14,7 @@ WHY: So I can add new types of media sources in the future without changing the 
 The composite pattern allows the app to treat both single media files and playlists in the same way.
 I made a base interface called ***MediaComponent***.
 Then, ***MediaFile*** is a single file, and ***Playlist*** can hold many media files or even other playlists.
-
+sb
 WHY: So the player can just call ***play()*** on anything — file or playlist — and it works the same way.
 
 3. **Decorator Pattern – For Extra Features**

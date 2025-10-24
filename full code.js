@@ -1,7 +1,3 @@
-// ============================
-// Simple Modular Media Player
-// ============================
-
 // ----- Adapter: different media sources -----
 class LocalFile {
   play() { console.log("🎵 Playing from local file..."); }

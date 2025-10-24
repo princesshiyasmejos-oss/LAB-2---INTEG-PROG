@@ -1,12 +1,7 @@
-# Modular Media Streaming Suite
-
-### 👩‍💻 Author
-Princess Hiyas Mejos
-
-### 🧩 Overview
+### Overview
 A refactored media player system that supports multiple media sources, decorators, playlists, and runtime rendering.
 
-### 🏗️ Features
+### Features
 - Multiple media sources (local, HLS, API)
 - Decorator support (subtitle, watermark, equalizer)
 - Composite playlists (playlists within playlists)
@@ -23,4 +18,4 @@ A refactored media player system that supports multiple media sources, decorator
 ### ▶️ Run Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/princesshiyasmejos-oss/LAB-2---INTEG-PROG.git
+   git clon e https://github.com/princesshiyasmejos-oss/LAB-2---INTEG-PROG.git
